@@ -1,8 +1,6 @@
 import socket
 import threading
-import select
 import sys
-import tkinter
 
 """
 Client needs a couple of functions:
